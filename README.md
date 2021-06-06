@@ -18,7 +18,7 @@ I'm not professional coder this is my hobby <br> </p>
  
  [![Twitter](https://img.shields.io/twitter/follow/rocksvicks?label=Follow&style=for-the-badge)](https://twitter.com/RocksVicks)
 [![GitHub rocksvicks](https://img.shields.io/github/followers/rocksvicks?label=follow&style=for-the-badge)](https://github.com/rocksvicks)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=social&label=Subscribe)](https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=new&label=Subscribe)](https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=social&label=follow&logo=instagram&logoColor=red)](https://instagram.com/gow_t_h_a_m_r_a_j)
 
  /* ========================================================================================================================
