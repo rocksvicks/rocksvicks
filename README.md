@@ -2,6 +2,8 @@
 <h2 align="center">Creator of <a href="https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1" target="_blank">Rocks Vicks Photography</a>,<a href="https://www.youtube.com/c/EnnaSollaPogirai?sub_confirmation=1" target="_blank">Enna Solla Pogirai</a> and <a href="https://www.youtube.com/c/HunTamizha?sub_confirmation=1" target="_blank">HunTamizha Gaming</a> 
 <p align="center">Working for <a href="https://www.youtube.com/c/RoyalClicks?sub_confirmation=1" target="_blank">Royal Clicks</a> </p> </h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rocksvicks&label=Visitors&color=blue&style=plastic" alt="rocksvicks" /> </p> 
+
 <img src="https://media.giphy.com/media/VARsZP4OnIWUgKVouI/giphy.gif" width="40px">Full Time Photographer & Editor <img src="https://media.giphy.com/media/U4YLhjX4vz825EeTu0/giphy.gif" width="25px"> <br>
 <img src="https://media.giphy.com/media/rW9bOzOzQ7zAb7Xoik/giphy.gif" width="25px">I also interested in Learning / Gaming<img src="https://media.giphy.com/media/jsJDcwJ9qqaR0kQwmj/giphy.gif" width="20px"> <br>
 I'm not professional coder this is my hobby <br>
