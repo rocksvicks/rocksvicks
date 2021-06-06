@@ -13,7 +13,7 @@ I'm not professional coder this is my hobby <br> </p>
 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
- <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a>
+ <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a>
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
  /* ========================================================================================================================
 //
