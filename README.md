@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rocks Vicks(RV) </h1>
+<img src="https://media.giphy.com/media/fGIsem7KrcgBRnulWL/giphy.gif"> <h1 align="center">Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rocks Vicks(RV) </h1>
 <h2 align="center">Creator of <a href="https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1" target="_blank">Rocks Vicks Photography</a>,<a href="https://www.youtube.com/c/EnnaSollaPogirai?sub_confirmation=1" target="_blank">Enna Solla Pogirai</a> and <a href="https://www.youtube.com/c/HunTamizha?sub_confirmation=1" target="_blank">HunTamizha Gaming</a> 
 <p align="center">Working for <a href="https://www.youtube.com/c/RoyalClicks?sub_confirmation=1" target="_blank">Royal Clicks</a> </p> </h2>
 
