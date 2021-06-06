@@ -17,9 +17,8 @@ I'm not professional coder this is my hobby <br> </p>
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p><br>
  
  [![Twitter](https://img.shields.io/twitter/follow/rocksvicks?label=Follow&style=for-the-badge)](https://twitter.com/RocksVicks)
-[![GitHub rocksvicks](https://img.shields.io/github/followers/rocksvicks?label=follow&style=social)](https://github.com/rocksvicks)
-[![](https://img.shields.io/badge/LinkedIn-E4405F?style=social&logo=linkedin&label=Connect&logoColor=blue)](https://www.linkedin.com/in/gowtham-kittusamy-54b835174/)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social&label=Subscribe)](https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber)
+[![GitHub rocksvicks](https://img.shields.io/github/followers/rocksvicks?label=follow&style=for-the-badge)](https://github.com/rocksvicks)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/RocksVicksPhotography?style=for-the-badge&label=Subscribe)](https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=social&label=follow&logo=instagram&logoColor=red)](https://instagram.com/gow_t_h_a_m_r_a_j)
 
  /* ========================================================================================================================
