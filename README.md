@@ -7,7 +7,7 @@
 I'm not professional coder this is my hobby <br>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200px"> <br>
 
-<p align="center"> <a href="instagram.com/rocksvicks/" target="blank"><img src="https://img.shields.io/instagram/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="RocksVicks" /></a> <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
+<p align="center"> <a href="https://instagram.com/rocksvicks/" target="blank"><img src="https://img.shields.io/instagram/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="RocksVicks" /></a> <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RocksVicks&margin-w=8" alt="RocksVicks" /></a> </p>
 
