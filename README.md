@@ -16,9 +16,9 @@ I'm not professional coder this is my hobby <br> </p>
  <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="rocksvicks" /></a>
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p><br>
  
- [![Twitter](https://img.shields.io/twitter/follow/rocksvicks?label=Follow&style=new&logo=instagram)](https://twitter.com/RocksVicks)
-[![GitHub rocksvicks](https://img.shields.io/github/followers/rocksvicks?label=follow&style=new)](https://github.com/rocksvicks)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=trend&label=Subscribe)](https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1)
+ [![Twitter](https://img.shields.io/twitter/follow/rocksvicks?label=Follow&style=new&logo=twitter)](https://twitter.com/RocksVicks)
+[![GitHub rocksvicks](https://img.shields.io/github/followers/rocksvicks?label=follow&style=new&&logo=Github)](https://github.com/rocksvicks)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=trend&label=Subscribe&logo=youtube)](https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=trend&label=follow&logo=instagram&logoColor=red)](https://instagram.com/rocksvicks)
 
  /* ========================================================================================================================
