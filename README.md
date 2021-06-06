@@ -10,5 +10,5 @@ I'm not professional coder this is my hobby <br>
 <p align="center"> <a href="https://instagram.com/rocksvicks/" target="blank"><img src="https://img.shields.io/instagram/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="RocksVicks" /></a> <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RocksVicks&margin-w=8" alt="RocksVicks" /></a> </p>
-<iframe height="100px" width="350px" frameborder="0" src="https://livecounts.org/live-sub-count/" allowfullscreen></iframe>
 
+<a href="https://twitter.com/intent/tweet?button_hashtag=rocksvicks&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #rocksvicks</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
