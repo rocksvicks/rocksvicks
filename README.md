@@ -11,4 +11,4 @@ I'm not professional coder this is my hobby <br>
 <---
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RocksVicks&margin-w=8" alt="RocksVicks" /></a> </p>
 --->
- <h3 align="center"> <img src="https://media.giphy.com/media/P078KVFgaDxUzphSOf/giphy.gif" width="100px"> </h3>
+ <p align="center"> <img src="https://media.giphy.com/media/P078KVFgaDxUzphSOf/giphy.gif" width="100px"> <p3>
