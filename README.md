@@ -7,10 +7,12 @@
 I'm not professional coder this is my hobby <br>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200px"> <br>
 
-<p align="center"> <a href="https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1" target="_blank">Rocks Vicks Photography</a> <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
+<p align="center"> <a href="https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1" target="_blank"> 
+ <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif"></a> 
+ <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
 ///
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RocksVicks&margin-w=8" alt="RocksVicks" /></a> </p>
 ---
  <p align="center"> <img src="https://media.giphy.com/media/fGIsem7KrcgBRnulWL/giphy.gif" width="100px"> <img src="https://media.giphy.com/media/P078KVFgaDxUzphSOf/giphy.gif" width="100px"> <p3>
 
- https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif
+ <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif">
