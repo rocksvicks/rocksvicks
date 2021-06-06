@@ -16,7 +16,7 @@ I'm not professional coder this is my hobby <br> </p>
  <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="rocksvicks" /></a>
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p><br>
  
- [![Twitter](https://img.shields.io/twitter/follow/rocksvicks?label=Follow&style=for-the-badge)](https://twitter.com/RocksVicks)
+ [![Twitter](https://img.shields.io/twitter/follow/rocksvicks?label=Follow&style=model)](https://twitter.com/RocksVicks)
 [![GitHub rocksvicks](https://img.shields.io/github/followers/rocksvicks?label=follow&style=for-the-badge)](https://github.com/rocksvicks)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=trend&label=Subscribe)](https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=social&label=follow&logo=instagram&logoColor=red)](https://instagram.com/gow_t_h_a_m_r_a_j)
