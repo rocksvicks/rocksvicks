@@ -7,7 +7,8 @@
 I'm not professional coder this is my hobby <br>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200px"> <br>
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Photographer;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=000000&lines=I'm+a+Photographer;)
+
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
