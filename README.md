@@ -12,6 +12,3 @@ I'm not professional coder this is my hobby <br>
 [![trophy](https://github-profile-trophy.vercel.app/?rocksvicks=ryo-ma&theme=onedark)](https://github.com/rocksvicks/github-profile-trophy)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RocksVicks&margin-w=8" alt="RocksVicks" /></a> </p>
-
-<p <a href="https://twitter.com/intent/tweet?button_hashtag=rocksvicks&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #rocksvicks</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p>
