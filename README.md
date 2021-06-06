@@ -9,11 +9,11 @@
 <img src="https://media.giphy.com/media/rW9bOzOzQ7zAb7Xoik/giphy.gif" width="25px">I also interested in Learning / Gaming<img src="https://media.giphy.com/media/jsJDcwJ9qqaR0kQwmj/giphy.gif" width="20px"> <br>
 I'm not professional coder this is my hobby <br> </p>
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=I'm+a+Photographer;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
- <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a>
+ <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="RocksVicks" /></a>
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p>
  /* ========================================================================================================================
 //
