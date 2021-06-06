@@ -6,5 +6,5 @@
 <img src="https://media.giphy.com/media/rW9bOzOzQ7zAb7Xoik/giphy.gif" width="25px">I also interested in Learning / Gaming<img src="https://media.giphy.com/media/jsJDcwJ9qqaR0kQwmj/giphy.gif" width="20px"> <br>
 I'm not professional coder this is my hobby <br>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300px"> <br>
-Thanks :) <br>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nolimits4web&margin-w=8" alt="nolimits4web" /></a> </p>
