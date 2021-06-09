@@ -15,13 +15,9 @@ I'm not professional coder this is my hobby <br> </p>
 
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true" > <br>
 
-<h3>Github ndndkndj Streak ⚡</h3>
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl&show_icons=true)  
+<h3>Github  Streak ⚡</h3>
 
-<h3>My GitHub Stats 📈</h3>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=nightowl&show_icons=true&count_private=true">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact">
         
 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
