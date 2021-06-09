@@ -9,23 +9,19 @@
 I'm not professional coder this is my hobby <br> </p>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
-
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="shades-of-purple")]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="shades-of-purple")
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=radical&locale="en" alt="rocksvicks" /></p>
+![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme="flag-india")
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicksk&theme=radical&" alt="rocksvicks" /></p>
-
-
-<h3>Github Streak ⚡</h3>
+<h3>Github ndndkndj Streak ⚡</h3>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=ocean_dark)  
 
 <h3>My GitHub Stats 📈</h3>
 <a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=GuruVikram02&theme=blueberry&show_icons=true&count_private=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=blueberry&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=blueberry&layout=compact" />
 
 </a>            
