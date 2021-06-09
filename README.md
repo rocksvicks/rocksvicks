@@ -24,9 +24,10 @@ I'm not professional coder this is my hobby <br> </p>
   <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=blueberry&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=blueberry&layout=compact" />
 </a>            
-
+<script>
  var msg = 'Hello World';
 console.log(msg);
+</script>
  
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
