@@ -10,11 +10,13 @@ I'm not professional coder this is my hobby <br> </p>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 
-# ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
+#
 <h3>Github  Overview ⚡ </h3>
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
-<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" >
+<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" > <h3>Github  Overview ⚡ </h3> </p>
         
 #
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
