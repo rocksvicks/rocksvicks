@@ -12,7 +12,7 @@ I'm not professional coder this is my hobby <br> </p>
 
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="shades-of-purple")](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="shades-of-purple")]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=radical&locale="en" alt="rocksvicks" /></p>
 
@@ -24,7 +24,7 @@ I'm not professional coder this is my hobby <br> </p>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=ocean_dark)  
 
 <h3>My GitHub Stats 📈</h3>
-<a href="https://github.com/rocksvicks">
+<a>
   <img  src="https://github-readme-stats.vercel.app/api?username=GuruVikram02&theme=blueberry&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=blueberry&layout=compact" />
 
