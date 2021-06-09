@@ -13,7 +13,7 @@ I'm not professional coder this is my hobby <br> </p>
 
 <a src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&show_icons=true&theme=nightowl"> </a>   
 
-<a> ![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true)  </a>
+<a align="center"> [](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true)  </a>
 
 <h3>Github ndndkndj Streak ⚡</h3>
 
