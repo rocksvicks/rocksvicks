@@ -15,8 +15,8 @@ I'm not professional coder this is my hobby <br> </p>
 <h3>Github  Overview ⚡ </h3>
 <p> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" > <h3>Github  Overview ⚡ </h3> </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
+<img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" > </p>
         
 # social link
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
