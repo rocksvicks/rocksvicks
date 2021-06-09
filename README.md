@@ -21,8 +21,8 @@ I'm not professional coder this is my hobby <br> </p>
 
 <h3>My GitHub Stats 📈</h3>
 <a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=omni&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=omni&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=calm&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=calm&layout=compact" />
 </a>            
 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
