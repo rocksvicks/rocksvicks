@@ -11,9 +11,9 @@ I'm not professional coder this is my hobby <br> </p>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="solarized-dark")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme="solarized-dark")
+![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=dark)
 
 <h3>Github ndndkndj Streak ⚡</h3>
 
