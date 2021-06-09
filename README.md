@@ -14,11 +14,11 @@ I'm not professional coder this is my hobby <br> </p>
 
 <img href="#" align="right" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;Most+Used+Languages+In+GitHub;Our+GitHub+Stats;Our+GitHub+Streak"> <br>
 <p> 
-<img  href=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
+<img  href="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
 <img  href="# " align="right" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" > </p> <br>
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
- <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
+ <img href="" src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
   <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" ></a>
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" ></a>
  <a href="https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1" target="blank"> <img src="https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=for-the-badge&logo=youtube">
