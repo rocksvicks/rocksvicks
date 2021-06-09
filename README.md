@@ -11,13 +11,13 @@ I'm not professional coder this is my hobby <br> </p>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=gruvbox)
 
-![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=gruvbox)
 
 <h3>Github ndndkndj Streak ⚡</h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme="solarized-dark")  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=gruvbox)  
 
 <h3>My GitHub Stats 📈</h3>
 <a>
