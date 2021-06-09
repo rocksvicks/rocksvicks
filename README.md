@@ -11,19 +11,18 @@ I'm not professional coder this is my hobby <br> </p>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&show_icons=true&theme=nightowl"> 
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&show_icons=true&theme=nightowl&layout=compact"> 
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true" >
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true" > <br>
 
 <h3>Github ndndkndj Streak ⚡</h3>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl&show_icons=true)  
 
 <h3>My GitHub Stats 📈</h3>
-<a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=calm&show_icons=true&count_private=true">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=calm&layout=compact">
-</a>            
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=nightowl&show_icons=true&count_private=true">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact">
+        
 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
