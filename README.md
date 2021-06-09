@@ -36,8 +36,11 @@ I'm not professional coder this is my hobby <br> </p>
  
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
- <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="rocksvicks" /></a>
- <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a></p><br>
+ <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" /></a>
+ <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" /></a>
+ <a href="https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1" target="blank"> <img src="https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=trend&label=Subscribe&logo=youtube" 
+  <a href="https://github.com/rocksvicks" target="blank"><img src="https://img.shields.io/github/followers/rocksvicks?style=new&&logo=Github" /></a>
+  </p> <br>
  
  [![Twitter](https://img.shields.io/twitter/follow/rocksvicks?label=Follow&style=new&logo=twitter)](https://twitter.com/RocksVicks)
 [![GitHub rocksvicks](https://img.shields.io/github/followers/rocksvicks?label=follow&style=new&&logo=Github)](https://github.com/rocksvicks)
