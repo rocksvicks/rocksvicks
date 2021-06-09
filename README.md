@@ -13,15 +13,14 @@ I'm not professional coder this is my hobby <br> </p>
 <h3>Github  Overview ⚡ </h3>
 <p>
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true" > <br>
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
 <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" > </p>
-<br>
-<br>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl)  
 
 
         
-
+#
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
   <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" ></a>
