@@ -12,7 +12,7 @@ I'm not professional coder this is my hobby <br> </p>
 
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="vue-dark")](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=radical&locale="en" alt="rocksvicks" /></p>
 
