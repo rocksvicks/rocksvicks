@@ -11,24 +11,20 @@ I'm not professional coder this is my hobby <br> </p>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="shades-of-purple")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme="vision-friendly-dark")
 
-![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme="flag-india")
+![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme="maroongold")
 
 <h3>Github ndndkndj Streak ⚡</h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=ocean_dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=maroongold)  
 
 <h3>My GitHub Stats 📈</h3>
 <a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=blueberry&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=blueberry&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=maroongold&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=maroongold&layout=compact" />
 </a>            
-<script>
- var msg = 'Hello World';
-console.log(msg);
-</script>
- 
+
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
   <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" ></a>
@@ -37,5 +33,4 @@ console.log(msg);
   <a href="https://github.com/rocksvicks" target="blank"><img src="https://img.shields.io/github/followers/rocksvicks?logo=Github&style=for-the-badge" ></a>
   </p> <br>
  
-<img alt="Custom badge" src="https://img.shields.io/endpoint?color=follow%20us&label=follow&logo=instagram&logoColor=facebook&url=www.instagram.com/rocksvicks">
  <p align="center"> <img src="https://media.giphy.com/media/fGIsem7KrcgBRnulWL/giphy.gif" width="100px"> <img src="https://media.giphy.com/media/P078KVFgaDxUzphSOf/giphy.gif" width="100px"> <p3>
