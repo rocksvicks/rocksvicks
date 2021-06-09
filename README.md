@@ -4,7 +4,8 @@
 <p align="center">Working for <a href="https://www.youtube.com/c/RoyalClicks?sub_confirmation=1" target="_blank">Royal Clicks</a> </p> </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocksvicks&label=Visitors&color=blue&style=plastic" alt="rocksvicks" /> </p> 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
+
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Hello;)
 
 ## My Github Metrics ❤️ 
 
