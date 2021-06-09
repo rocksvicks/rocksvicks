@@ -11,18 +11,18 @@ I'm not professional coder this is my hobby <br> </p>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 ## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=synthwave)
 
-![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=synthwave)
 
 <h3>Github ndndkndj Streak ⚡</h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=gruvbox)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=synthwave)  
 
 <h3>My GitHub Stats 📈</h3>
 <a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=onedark&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=onedark&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rocksvicks&theme=dracula&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=dracula&layout=compact" />
 </a>            
 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
