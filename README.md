@@ -22,7 +22,18 @@ I'm not professional coder this is my hobby <br> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicksk&theme=radical&" alt="rocksvicks" /></p>
 
 
+<h3>Github Streak ⚡</h3>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=tokyonight)  
+
+<h3>My GitHub Stats 📈</h3>
+<a href="https://github.com/rocksvicks">
+  <img  src="https://github-readme-stats.vercel.app/api?username=GuruVikram02&theme=jolly&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=jolly&layout=compact" />
+
+</a>            
+ 
+ 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
  <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" alt="rocksvicks" /></a>
