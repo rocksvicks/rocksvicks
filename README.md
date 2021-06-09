@@ -12,7 +12,7 @@ I'm not professional coder this is my hobby <br> </p>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
 #
-<h2> <p align="right"> Github  Overview </p> </h2>
+<p align="right"> Github  Overview </p>
 <p> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
