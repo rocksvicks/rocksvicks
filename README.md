@@ -37,5 +37,5 @@ console.log(msg);
   <a href="https://github.com/rocksvicks" target="blank"><img src="https://img.shields.io/github/followers/rocksvicks?logo=Github&style=for-the-badge" ></a>
   </p> <br>
  
-
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=follow%20us&label=follow&logo=instagram&logoColor=facebook&url=www.instagram.com/rocksvicks">
  <p align="center"> <img src="https://media.giphy.com/media/fGIsem7KrcgBRnulWL/giphy.gif" width="100px"> <img src="https://media.giphy.com/media/P078KVFgaDxUzphSOf/giphy.gif" width="100px"> <p3>
