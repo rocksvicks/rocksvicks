@@ -17,7 +17,7 @@ I'm not professional coder this is my hobby <br> </p>
 
 <h3>Github ndndkndj Streak ⚡</h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl&show_icons=true)  
 
 <h3>My GitHub Stats 📈</h3>
 <a>
