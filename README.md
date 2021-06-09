@@ -5,19 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocksvicks&label=Visitors&color=blue&style=plastic" alt="rocksvicks" /> </p> 
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Hello;)
-
-## My Github Metrics ❤️ 
-
-![](https://metrics.lecoq.io/rocksvicks)  
-
-## My Github Stats ❤️ 
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=radical&locale=en" alt="rocksvicks" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicksk&theme=radical&" alt="rocksvicks" /></p>
 
 <img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200px"> <br>
 <p align="center" <img src="https://media.giphy.com/media/VARsZP4OnIWUgKVouI/giphy.gif" width="40px">Full Time Photographer & Editor <img src="https://media.giphy.com/media/U4YLhjX4vz825EeTu0/giphy.gif" width="25px"> <br>
@@ -25,6 +12,16 @@
 I'm not professional coder this is my hobby <br> </p>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
+
+## ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=radical&locale="en" alt="rocksvicks" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicksk&theme=radical&" alt="rocksvicks" /></p>
+
+
 
 <p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
  <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
