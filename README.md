@@ -13,9 +13,9 @@ I'm not professional coder this is my hobby <br> </p>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
 
 #
-
-<img href="#" align="right" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;Most+Used+Languages+In+GitHub;Our+GitHub+Stats;Our+GitHub+Streak"> <br>
 <p> 
+<img href="#" align="right" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;Most+Used+Languages+In+GitHub;Our+GitHub+Stats;Our+GitHub+Streak"> <br>
+
 <img  href=""  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
 <img  href="# " align="right" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" > </p> <br>
