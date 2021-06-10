@@ -12,8 +12,6 @@ I'm not professional coder this is my hobby <br>
 <img  href="" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;"> 
 </p>
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;)
-
 #
 <p> 
 <a src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;Most+Used+Languages+In+GitHub;Our+GitHub+Stats;Our+GitHub+Streak"> 
