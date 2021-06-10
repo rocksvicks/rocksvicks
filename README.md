@@ -4,7 +4,7 @@
 <p align="center">Working for <a href="https://www.youtube.com/c/RoyalClicks?sub_confirmation=1" target="_blank">Royal Clicks</a> </p> </h2>
 
 <img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200px"> 
-<img align="right" src="https://media.giphy.com/media/VARsZP4OnIWUgKVouI/giphy.gif" width="200px">
+<img align="left" src="https://media.giphy.com/media/VARsZP4OnIWUgKVouI/giphy.gif" width="200px">
 
 <p align="center" src="https://media.giphy.com/media/VARsZP4OnIWUgKVouI/giphy.gif" width="40px">Full Time Photographer & Editor <img src="https://media.giphy.com/media/U4YLhjX4vz825EeTu0/giphy.gif" width="25px"> <br>
 <img src="https://media.giphy.com/media/rW9bOzOzQ7zAb7Xoik/giphy.gif" width="25px">I also interested in Learning / Gaming<img src="https://media.giphy.com/media/jsJDcwJ9qqaR0kQwmj/giphy.gif" width="20px"> <br>
