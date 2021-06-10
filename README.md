@@ -9,7 +9,7 @@
 <p align="center" src="https://media.giphy.com/media/VARsZP4OnIWUgKVouI/giphy.gif" width="40px">Full Time Photographer & Editor <img src="https://media.giphy.com/media/U4YLhjX4vz825EeTu0/giphy.gif" width="25px"> <br>
 <img src="https://media.giphy.com/media/rW9bOzOzQ7zAb7Xoik/giphy.gif" width="25px">I also interested in Learning / Gaming<img src="https://media.giphy.com/media/jsJDcwJ9qqaR0kQwmj/giphy.gif" width="20px"> <br>
 I'm not professional coder this is my hobby <br>
-<img  href="" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;"> 
+<img  href="" align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;"> 
 </p>
 
 #
