@@ -9,7 +9,8 @@
 <p align="center" src="https://media.giphy.com/media/VARsZP4OnIWUgKVouI/giphy.gif" width="40px">Full Time Photographer & Editor <img src="https://media.giphy.com/media/U4YLhjX4vz825EeTu0/giphy.gif" width="25px"> <br>
 <img src="https://media.giphy.com/media/rW9bOzOzQ7zAb7Xoik/giphy.gif" width="25px">I also interested in Learning / Gaming<img src="https://media.giphy.com/media/jsJDcwJ9qqaR0kQwmj/giphy.gif" width="20px"> <br>
 I'm not professional coder this is my hobby <br>
-<img  href="" align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;"> 
+<img  href="" align="center">  <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
+ <img href="" src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=l+Love+My+Job;"> </a> 
 </p>
 
 #
@@ -20,8 +21,7 @@ I'm not professional coder this is my hobby <br>
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rocksvicks&theme=nightowl" > </p> 
 <br>
 
-<p align="center"> <a href="https://www.instagram.com/rocksvicks" target="_blank"> 
- <img href="" src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40px"></a> 
+<p align="center"> 
   <a href="https://www.instagram.com/rocksvicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=instagram&style=for-the-badge" ></a>
  <a href="https://twitter.com/RocksVicks" target="blank"><img src="https://img.shields.io/twitter/follow/RocksVicks?logo=twitter&style=for-the-badge" alt="RocksVicks" ></a>
  <a href="https://www.youtube.com/c/RocksVicksPhotography?sub_confirmation=1" target="blank"> <img src="https://img.shields.io/youtube/channel/subscribers/UCAzDd3ud2WcU7VD4OFGMWhA?style=for-the-badge&logo=youtube">
