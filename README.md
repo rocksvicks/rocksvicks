@@ -14,7 +14,8 @@ I'm not professional coder this is my hobby <br> </p>
 
 #
 <p> 
-<img href="#" align="right" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;Most+Used+Languages+In+GitHub;Our+GitHub+Stats;Our+GitHub+Streak"> <br>
+<a src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=ffffff&lines=Our+Github+Overview;Most+Used+Languages+In+GitHub;Our+GitHub+Stats;Our+GitHub+Streak"> 
+ </a><br>
 
 <img  href=""  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocksvicks&theme=nightowl&layout=compact"> 
 <img  href="# " align="right" src="https://github-readme-stats.vercel.app/api?username=rocksvicks&show_icons=true&theme=nightowl&count_private=true">
