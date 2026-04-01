@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rocks Vicks(RV) 👋</h1>
 <h3 align="center">UI/UX Designer • Creative Editor & Photographer • React Frontend Builder</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rocksvicks&label=Visitors&color=blue&style=plastic" alt="rocksvicks" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rocksvicks" /> </p>
 
 <p align="center">
 🎬 From visual storytelling to scalable digital systems, everything I build moves me closer to <b>Raari Studio</b>.
